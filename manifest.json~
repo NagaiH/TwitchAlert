@@ -1,0 +1,12 @@
+{
+  "name": "Twitch Alert",
+  "version" : "0.1",
+  "menifest_version": 2,
+
+  "description" : "気になるTwitchの放送をポップアップ表示！",
+  "browser_action" :{
+    "default_icon" : "twitch.png",
+    "default_title" : "test",
+    "default_popup": "popup.html"
+  }
+}
